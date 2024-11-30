@@ -19,8 +19,10 @@ body{
     flex-direction: column;
     border-radius: 50%;
     background-color: #03122f;
-    width: 370px;
-    height: 370px;
+    width: 40vw;
+    height: 40vw;
+    max-width: 370px;
+    max-height: 370px;
     position: relative;
 }
 
