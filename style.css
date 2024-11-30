@@ -97,3 +97,20 @@ body{
     color: #03122f;
     background-color: rgb(111, 255, 255);
 }
+@media screen and (max-width: 768px) {
+.container {
+    width: 70vw;
+    height: 70vw;
+}
+.container .name {
+     font-size: 18px;
+ }
+.container .social-links .link {
+    width: 30px;
+    height: 30px;
+}
+.container .image {
+    width: 120px;
+    height: 120px;
+}
+}
