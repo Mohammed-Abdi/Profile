@@ -94,5 +94,4 @@ body{
 .social-links .link:hover{
     color: #03122f;
     background-color: rgb(111, 255, 255);
-    transform: translateY(-6px);
 }
